@@ -1013,7 +1013,7 @@ input {
     font-size: var(--h2-font-size);
   }
   .experience__content {
-    margin: var(--mb-6) 0;
+    margin: var(--mb-4) 0;
     column-gap: 6.5rem;
   }
   .experience__overlay:nth-child(1) {
