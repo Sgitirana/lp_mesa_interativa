@@ -491,7 +491,7 @@ input {
 
 /*=============== EXPERIENCE ===============*/
 .experience__container {
-  row-gap: 2.5rem;
+  row-gap: 0.5rem;
   justify-content: center;
   justify-items: center;
 }
@@ -1000,28 +1000,28 @@ input {
     width: 290px;
   }
   .discover__card {
-    width: 237px;
+    width: 300px;
   }
   .discover__container {
-    width: 700px;
+    width: 900px;
   }
   .discover__data {
-    left: 1.5rem;
-    bottom: 2rem;
+    left: 2rem;
+    bottom: 2.5rem;
   }
   .discover__title {
     font-size: var(--h2-font-size);
   }
   .experience__content {
-    margin: var(--mb-1) 0;
-    column-gap: 3.5rem;
+    margin: var(--mb-6) 0;
+    column-gap: 6.5rem;
   }
   .experience__overlay:nth-child(1) {
-    width: 463px;
+    width: 700px;
     margin-right: 7rem;
   }
   .experience__overlay:nth-child(2) {
-    width: 220px;
+    width: 280px;
     top: 3rem;
   }
   .video__container {
